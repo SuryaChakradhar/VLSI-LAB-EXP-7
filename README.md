@@ -1,4 +1,4 @@
-![image](https://github.com/SuryaChakradhar/VLSI-LAB-EXP-7/assets/161815325/66e64cb0-4c2c-4c71-97dc-6744f6293985)![image](https://github.com/SuryaChakradhar/VLSI-LAB-EXP-7/assets/161815325/ede06671-d025-43eb-b4c8-b15f53ed5641)# VLSI-LAB-EX-06
+ ## VLSI-LAB-EX-06
 SIMULATE AND SYNTHESIS INVERTER USING CADENCE
 
 ## AIM:
